@@ -34,11 +34,11 @@ import androidx.compose.ui.unit.sp
 import com.example.firstcomposetask.R
 import com.example.firstcomposetask.composable.SpacerHorizontal8
 import com.example.firstcomposetask.composable.SpacerVertical8
-import com.example.tomjerry.ui.theme.Black
-import com.example.tomjerry.ui.theme.Grey100
+import com.example.firstcomposetask.ui.theme.Black
+import com.example.firstcomposetask.ui.theme.Grey100
 import com.example.tomjerry.ui.theme.Ibm
-import com.example.tomjerry.ui.theme.Primary
-import com.example.tomjerry.ui.theme.Primary200
+import com.example.firstcomposetask.ui.theme.Primary
+import com.example.firstcomposetask.ui.theme.Primary200
 
 @Composable
 fun TomCard(

@@ -6,7 +6,7 @@ import androidx.compose.ui.text.font.FontWeight
 import com.example.firstcomposetask.R
 
 val Ibm = FontFamily(
-   /* Font(R.font.ibm_plex_sans_arabic_regular, FontWeight.Normal),
+    Font(R.font.ibm_plex_sans_arabic_regular, FontWeight.Normal),
     Font(R.font.ibm_plex_sans_arabic_medium, FontWeight.Medium),
-    Font(R.font.ibm_plex_sans_arabic_semibold, FontWeight.SemiBold)*/
+    Font(R.font.ibm_plex_sans_arabic_semibold, FontWeight.SemiBold)
 )

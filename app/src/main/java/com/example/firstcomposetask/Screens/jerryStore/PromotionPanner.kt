@@ -27,10 +27,10 @@ import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
 import com.example.firstcomposetask.R
 import com.example.firstcomposetask.composable.SpacerVertical8
-import com.example.tomjerry.ui.theme.DarkBlue
+import com.example.firstcomposetask.ui.theme.DarkBlue
 import com.example.tomjerry.ui.theme.Ibm
-import com.example.tomjerry.ui.theme.LightBlue
-import com.example.tomjerry.ui.theme.White4
+import com.example.firstcomposetask.ui.theme.LightBlue
+import com.example.firstcomposetask.ui.theme.White4
 
 @Composable
 fun PromotionPanner() {

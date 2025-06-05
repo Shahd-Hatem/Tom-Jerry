@@ -29,10 +29,10 @@ import androidx.compose.ui.tooling.preview.Preview
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
 import com.example.firstcomposetask.R
-import com.example.tomjerry.ui.theme.Black
-import com.example.tomjerry.ui.theme.Grey
+import com.example.firstcomposetask.ui.theme.Black
+import com.example.firstcomposetask.ui.theme.Grey
 import com.example.tomjerry.ui.theme.Ibm
-import com.example.tomjerry.ui.theme.Primary
+import com.example.firstcomposetask.ui.theme.Primary
 
 @Composable
 fun TopBar(
